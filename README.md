@@ -1,3 +1,3 @@
 # kadengithub.io
 
-repository
+repository that contains my scripts
